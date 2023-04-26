@@ -1,0 +1,12 @@
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.deps.json
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.dll
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.pdb
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.dll
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\refint\newcom.DTO.dll
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.pdb
+C:\Amar\Debug\Apps\1\134\202304262417\newcom\newcom.DTO\obj\Debug\net7.0\ref\newcom.DTO.dll
