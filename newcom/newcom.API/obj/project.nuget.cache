@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MnIzCUZlMJGylMy5VDlOGxDAcONZ9c5jAu2vvDHahPfHEGWKtPKOw061q7ofbKuZL299+NhaZ2vBKdL9UcIEDg==",
+  "dgSpecHash": "XiEV/pYAfY5F5EN6K7d1cG5ZinAbGNK8OYh0L445SkunNKfwd9T6w5p2zVhB8q/Eyyv66LK8UryiaaSeP7T1ZA==",
   "success": true,
-  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.API\\newcom.API.csproj",
+  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.API\\newcom.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",

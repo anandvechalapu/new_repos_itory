@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8T1mjNvz4xDEQ5+Dm+id2BL65bdTuifzjQ5vHhr5phSa7LkLw8S8f4mnTMWMdCZ8NoZLX/LuJhUzD0ePI1Wn0A==",
+  "dgSpecHash": "wmT5HKZ1fRDAEtbYmRIZrvzhypkII72QWf2/NyzjBToZ9gdmDxmNjdz8MwJfuVP0Q6JGCh2SO+8z6/3wXAC9mw==",
   "success": true,
-  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.Service\\newcom.Service.csproj",
+  "projectFilePath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.Service\\newcom.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

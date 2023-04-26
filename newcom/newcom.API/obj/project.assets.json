@@ -6381,11 +6381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.API\\newcom.API.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.API\\newcom.API.csproj",
       "projectName": "newcom.API",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.API\\newcom.API.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.API\\newcom.API.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.API\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6400,11 +6400,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.DTO\\newcom.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.DTO\\newcom.DTO.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.DTO\\newcom.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.DTO\\newcom.DTO.csproj"
             },
-            "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.Service\\newcom.Service.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\134\\202304262417\\newcom\\newcom.Service\\newcom.Service.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.Service\\newcom.Service.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\135\\202304263008\\newcom\\newcom.Service\\newcom.Service.csproj"
             }
           }
         }
